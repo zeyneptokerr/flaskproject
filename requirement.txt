@@ -1,0 +1,4 @@
+flask
+flask_sqlalchemy
+api
+PyJWT==1.7.1
